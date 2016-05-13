@@ -8,12 +8,7 @@ author:       "Zakaria Braksa"
 
 ## Project
 
-An Xcode project is a bunch of everything & anything 
-
-* References to source files
-* Targets which build products (by combining certain source files)
-* Schemes which build targets and perform actions
-* Build configurations which select variants of target build settings
+Think of an Xcode project as a nice way to package few things together. Those things would be references to source files, targets, schemes and build configurations. 
 
 ### Targets
 
