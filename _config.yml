@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Zakaria Braksa"
+description:        "iOS Engineer at Hidden Founders"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+url:                "//zakariabraksa.com"
+author:             "Zakaria Braksa"
 twitter:
-  username:         "gfjaru"
+  username:         "NSBraksa"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -26,9 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//qbraksa.github.io/about"
 
 # Sass
 sass:
